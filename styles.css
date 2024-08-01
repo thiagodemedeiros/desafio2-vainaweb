@@ -1,3 +1,7 @@
+* {
+  text-decoration-color: #000;
+}
+
 body {
   background-color: rgb(159, 209, 255);
   margin: 100px;
@@ -13,4 +17,5 @@ img {
 
 p {
   width: 500px;
+  color: #000;
 }/*# sourceMappingURL=styles.css.map */
