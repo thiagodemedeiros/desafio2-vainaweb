@@ -1,5 +1,8 @@
 * {
   text-decoration-color: #000;
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
 
 body {
@@ -17,5 +20,9 @@ img {
 
 p {
   width: 500px;
+  color: #000;
+}
+
+a {
   color: #000;
 }/*# sourceMappingURL=styles.css.map */
