@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: rgb(255, 29, 29);
+  background: linear-gradient(to top right, #ff0000, #fd3f3f);
   height: 100%;
   margin: 0px;
 }
@@ -80,5 +80,5 @@ footer {
 
 footer h3 {
   padding-top: 20px;
-  color: #490000;
+  color: #ff0000;
 }/*# sourceMappingURL=styles.css.map */
